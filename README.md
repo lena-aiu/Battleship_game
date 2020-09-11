@@ -9,4 +9,4 @@ This program including:
 - Alerts and Prompts
 
 ---
-[This is link on game's website](https://lena-aiu.github.io/Website_Resume/ "Enjoy!")
+[This is link on game's website](https://lena-aiu.github.io/Battleship_game/ "Enjoy!")
